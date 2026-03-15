@@ -1,5 +1,3 @@
-# portfolio
-tittu-portfolio
 # Hi 👋 I'm Tittu Erothu
 
 💻 Full Stack Developer | MSc Computing Science Student  
